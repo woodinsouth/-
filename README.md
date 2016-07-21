@@ -1,5 +1,1 @@
-# -warming up
-A
-B
-C
-D
+# 这是一枚解题报告
